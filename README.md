@@ -49,7 +49,7 @@ fun_fact: Probably debugging a phishing detector at 2 AM ☕
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="assets/profile.jpg" width="70%" style="border-radius:16px; border:2px solid #A78BFA;"/>
+<img src="profile.jpg" width="70%" style="border-radius:16px; border:2px solid #A78BFA;"/>
 <br/>
 <sub>📸 That's me!</sub>
 
