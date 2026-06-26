@@ -51,7 +51,7 @@ fun_fact: Probably debugging a phishing detector at 2 AM ☕
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="90%"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmQ2eHZkcnNzd3VmdmlhanQ0NmhiaXFyaTY1cmMxMWVxOHZ5M256dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="90%"/>
 
 </td>
 </tr>
