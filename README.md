@@ -14,9 +14,13 @@
 <img src="https://img.shields.io/badge/ROLE-Student-06B6D4?style=for-the-badge&labelColor=0F0C29"/>
 <img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20Security-EC4899?style=for-the-badge&labelColor=0F0C29"/>
 
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="160"/>
+
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <!-- ============ ABOUT ME — GLASS CARD ============ -->
 <table width="100%" style="border:none;">
@@ -45,13 +49,15 @@ fun_fact: Probably debugging a phishing detector at 2 AM ☕
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%"/>
+<img src="assets/profile.jpg" width="70%" style="border-radius:16px; border:2px solid #A78BFA;"/>
+<br/>
+<sub>📸 That's me!</sub>
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <!-- ============ TECH STACK ============ -->
 <div align="center">
@@ -83,12 +89,14 @@ fun_fact: Probably debugging a phishing detector at 2 AM ☕
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <!-- ============ FEATURED PROJECTS ============ -->
 <div align="center">
 
 ### 🚀 Featured Projects
+
+A snapshot of what I've built so far — full-stack apps, bots, and AI-driven tools.
 
 </div>
 
@@ -137,9 +145,61 @@ A full web-based clinic management system — appointments, roles for owners/vet
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+<div style="border:1px solid #3b3b5c; border-radius:14px; padding:18px; background:linear-gradient(145deg,#16162b,#1f1f3d);">
+
+#### 📅 Event Management
+A system to organize and manage events end-to-end — scheduling, tracking, and coordination in one platform.
+
+`Web App` `Management System`
+
+[🔗 View Repo](https://github.com/mpsudarsan/Event-management)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div style="border:1px solid #3b3b5c; border-radius:14px; padding:18px; background:linear-gradient(145deg,#16162b,#1f1f3d);">
+
+#### 💬 Chatbot
+A conversational chatbot built to handle interactive queries with smart, rule-based / AI-driven response logic.
+
+`JavaScript` `Conversational AI`
+
+[🔗 View Repo](https://github.com/mpsudarsan/chatbot)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div style="border:1px solid #3b3b5c; border-radius:14px; padding:18px; background:linear-gradient(145deg,#16162b,#1f1f3d);">
+
+#### ⚕️ MedicalBot
+An assistant-style bot focused on medical query handling and guidance, complementing the MediBot project.
+
+`JavaScript` `Healthcare AI`
+
+[🔗 View Repo](https://github.com/mpsudarsan/medicalbot)
+
+</div>
+
+</td>
+</tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<div align="center">
+
+<a href="https://github.com/mpsudarsan?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <!-- ============ GITHUB STATS DASHBOARD ============ -->
 <div align="center">
@@ -154,7 +214,7 @@ A full web-based clinic management system — appointments, roles for owners/vet
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <!-- ============ TROPHIES ============ -->
 <div align="center">
@@ -165,7 +225,7 @@ A full web-based clinic management system — appointments, roles for owners/vet
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <!-- ============ CURRENTLY EXPLORING ============ -->
 <div align="center">
@@ -183,7 +243,7 @@ A full web-based clinic management system — appointments, roles for owners/vet
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <!-- ============ FOOTER / CONNECT ============ -->
 <div align="center">
