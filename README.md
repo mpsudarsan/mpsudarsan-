@@ -3,6 +3,8 @@
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,30:302B63,70:24243E,100:0F0C29&height=260&section=header&text=M%20P%20Sudarsan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI/ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=B8B8FF"/>
 
+<img src="assets/profile.jpg" width="130" height="130" style="border-radius:50%; border:3px solid #A78BFA; margin-top:-90px;"/>
+
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/mpsudarsan">
   <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+AI%2FML+Engineer;Full-Stack+Developer;Building+Agentic+AI+Systems;Turning+%E2%98%95+into+%3C%2F%3E;Open+to+Opportunities+%F0%9F%9A%80&font=Fira+Code&center=true&width=620&height=50&color=A78BFA&size=24&vCenter=true&pause=1200&duration=3200" alt="Typing SVG" />
@@ -49,9 +51,7 @@ fun_fact: Probably debugging a phishing detector at 2 AM ☕
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="profile.jpg" width="70%" style="border-radius:16px; border:2px solid #A78BFA;"/>
-<br/>
-<sub>📸 That's me!</sub>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="90%"/>
 
 </td>
 </tr>
